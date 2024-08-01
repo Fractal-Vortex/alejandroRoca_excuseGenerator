@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+}
+
+.container-fluid {
+  background: greenyellow;
+  float: center;
+}
+strong {
+  font-size: larger;
+}
+#excuse {
+  font-size: xx-large;
+}
+
+img {
+  border-radius: 25%;
+}
